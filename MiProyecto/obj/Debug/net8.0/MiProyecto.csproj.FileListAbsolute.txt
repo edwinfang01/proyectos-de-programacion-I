@@ -1,0 +1,14 @@
+C:\Users\edwin\Downloads\workspace\c codes\MiProyecto\bin\Debug\net8.0\MiProyecto.exe
+C:\Users\edwin\Downloads\workspace\c codes\MiProyecto\bin\Debug\net8.0\MiProyecto.deps.json
+C:\Users\edwin\Downloads\workspace\c codes\MiProyecto\bin\Debug\net8.0\MiProyecto.runtimeconfig.json
+C:\Users\edwin\Downloads\workspace\c codes\MiProyecto\bin\Debug\net8.0\MiProyecto.dll
+C:\Users\edwin\Downloads\workspace\c codes\MiProyecto\bin\Debug\net8.0\MiProyecto.pdb
+C:\Users\edwin\Downloads\workspace\c codes\MiProyecto\obj\Debug\net8.0\MiProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwin\Downloads\workspace\c codes\MiProyecto\obj\Debug\net8.0\MiProyecto.AssemblyInfoInputs.cache
+C:\Users\edwin\Downloads\workspace\c codes\MiProyecto\obj\Debug\net8.0\MiProyecto.AssemblyInfo.cs
+C:\Users\edwin\Downloads\workspace\c codes\MiProyecto\obj\Debug\net8.0\MiProyecto.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Downloads\workspace\c codes\MiProyecto\obj\Debug\net8.0\MiProyecto.dll
+C:\Users\edwin\Downloads\workspace\c codes\MiProyecto\obj\Debug\net8.0\refint\MiProyecto.dll
+C:\Users\edwin\Downloads\workspace\c codes\MiProyecto\obj\Debug\net8.0\MiProyecto.pdb
+C:\Users\edwin\Downloads\workspace\c codes\MiProyecto\obj\Debug\net8.0\MiProyecto.genruntimeconfig.cache
+C:\Users\edwin\Downloads\workspace\c codes\MiProyecto\obj\Debug\net8.0\ref\MiProyecto.dll
