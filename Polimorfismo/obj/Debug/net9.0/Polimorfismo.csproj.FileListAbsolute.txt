@@ -1,0 +1,14 @@
+C:\Users\edwin\Downloads\workspace\c codes\Polimorfismo\obj\Debug\net9.0\Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwin\Downloads\workspace\c codes\Polimorfismo\obj\Debug\net9.0\Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\edwin\Downloads\workspace\c codes\Polimorfismo\obj\Debug\net9.0\Polimorfismo.AssemblyInfo.cs
+C:\Users\edwin\Downloads\workspace\c codes\Polimorfismo\obj\Debug\net9.0\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Downloads\workspace\c codes\Polimorfismo\bin\Debug\net9.0\Polimorfismo.exe
+C:\Users\edwin\Downloads\workspace\c codes\Polimorfismo\bin\Debug\net9.0\Polimorfismo.deps.json
+C:\Users\edwin\Downloads\workspace\c codes\Polimorfismo\bin\Debug\net9.0\Polimorfismo.runtimeconfig.json
+C:\Users\edwin\Downloads\workspace\c codes\Polimorfismo\bin\Debug\net9.0\Polimorfismo.dll
+C:\Users\edwin\Downloads\workspace\c codes\Polimorfismo\bin\Debug\net9.0\Polimorfismo.pdb
+C:\Users\edwin\Downloads\workspace\c codes\Polimorfismo\obj\Debug\net9.0\Polimorfismo.dll
+C:\Users\edwin\Downloads\workspace\c codes\Polimorfismo\obj\Debug\net9.0\refint\Polimorfismo.dll
+C:\Users\edwin\Downloads\workspace\c codes\Polimorfismo\obj\Debug\net9.0\Polimorfismo.pdb
+C:\Users\edwin\Downloads\workspace\c codes\Polimorfismo\obj\Debug\net9.0\Polimorfismo.genruntimeconfig.cache
+C:\Users\edwin\Downloads\workspace\c codes\Polimorfismo\obj\Debug\net9.0\ref\Polimorfismo.dll
