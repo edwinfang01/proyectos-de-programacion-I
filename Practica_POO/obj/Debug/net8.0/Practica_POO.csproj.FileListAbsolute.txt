@@ -1,0 +1,14 @@
+C:\Users\edwin\Downloads\workspace\c codes\Practica_POO\bin\Debug\net8.0\Practica_POO.exe
+C:\Users\edwin\Downloads\workspace\c codes\Practica_POO\bin\Debug\net8.0\Practica_POO.deps.json
+C:\Users\edwin\Downloads\workspace\c codes\Practica_POO\bin\Debug\net8.0\Practica_POO.runtimeconfig.json
+C:\Users\edwin\Downloads\workspace\c codes\Practica_POO\bin\Debug\net8.0\Practica_POO.dll
+C:\Users\edwin\Downloads\workspace\c codes\Practica_POO\bin\Debug\net8.0\Practica_POO.pdb
+C:\Users\edwin\Downloads\workspace\c codes\Practica_POO\obj\Debug\net8.0\Practica_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwin\Downloads\workspace\c codes\Practica_POO\obj\Debug\net8.0\Practica_POO.AssemblyInfoInputs.cache
+C:\Users\edwin\Downloads\workspace\c codes\Practica_POO\obj\Debug\net8.0\Practica_POO.AssemblyInfo.cs
+C:\Users\edwin\Downloads\workspace\c codes\Practica_POO\obj\Debug\net8.0\Practica_POO.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Downloads\workspace\c codes\Practica_POO\obj\Debug\net8.0\Practica_POO.dll
+C:\Users\edwin\Downloads\workspace\c codes\Practica_POO\obj\Debug\net8.0\refint\Practica_POO.dll
+C:\Users\edwin\Downloads\workspace\c codes\Practica_POO\obj\Debug\net8.0\Practica_POO.pdb
+C:\Users\edwin\Downloads\workspace\c codes\Practica_POO\obj\Debug\net8.0\Practica_POO.genruntimeconfig.cache
+C:\Users\edwin\Downloads\workspace\c codes\Practica_POO\obj\Debug\net8.0\ref\Practica_POO.dll
