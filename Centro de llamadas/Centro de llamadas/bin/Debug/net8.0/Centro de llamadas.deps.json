@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Centro de llamadas/1.0.0": {
+        "runtime": {
+          "Centro de llamadas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Centro de llamadas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

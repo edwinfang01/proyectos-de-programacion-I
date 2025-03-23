@@ -1,0 +1,14 @@
+C:\Users\edwin\source\repos\Centro de llamadas\Centro de llamadas\obj\Debug\net8.0\Centro de llamadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwin\source\repos\Centro de llamadas\Centro de llamadas\obj\Debug\net8.0\Centro de llamadas.AssemblyInfoInputs.cache
+C:\Users\edwin\source\repos\Centro de llamadas\Centro de llamadas\obj\Debug\net8.0\Centro de llamadas.AssemblyInfo.cs
+C:\Users\edwin\source\repos\Centro de llamadas\Centro de llamadas\obj\Debug\net8.0\Centro de llamadas.csproj.CoreCompileInputs.cache
+C:\Users\edwin\source\repos\Centro de llamadas\Centro de llamadas\bin\Debug\net8.0\Centro de llamadas.exe
+C:\Users\edwin\source\repos\Centro de llamadas\Centro de llamadas\bin\Debug\net8.0\Centro de llamadas.deps.json
+C:\Users\edwin\source\repos\Centro de llamadas\Centro de llamadas\bin\Debug\net8.0\Centro de llamadas.runtimeconfig.json
+C:\Users\edwin\source\repos\Centro de llamadas\Centro de llamadas\bin\Debug\net8.0\Centro de llamadas.dll
+C:\Users\edwin\source\repos\Centro de llamadas\Centro de llamadas\bin\Debug\net8.0\Centro de llamadas.pdb
+C:\Users\edwin\source\repos\Centro de llamadas\Centro de llamadas\obj\Debug\net8.0\Centro de llamadas.dll
+C:\Users\edwin\source\repos\Centro de llamadas\Centro de llamadas\obj\Debug\net8.0\refint\Centro de llamadas.dll
+C:\Users\edwin\source\repos\Centro de llamadas\Centro de llamadas\obj\Debug\net8.0\Centro de llamadas.pdb
+C:\Users\edwin\source\repos\Centro de llamadas\Centro de llamadas\obj\Debug\net8.0\Centro de llamadas.genruntimeconfig.cache
+C:\Users\edwin\source\repos\Centro de llamadas\Centro de llamadas\obj\Debug\net8.0\ref\Centro de llamadas.dll
